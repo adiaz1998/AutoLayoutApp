@@ -13,6 +13,7 @@
 		0F88526B2717A62700E55340 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F8852692717A62700E55340 /* Main.storyboard */; };
 		0F88526D2717A62B00E55340 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F88526C2717A62B00E55340 /* Assets.xcassets */; };
 		0F8852702717A62B00E55340 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F88526E2717A62B00E55340 /* LaunchScreen.storyboard */; };
+		0F8852782717B31900E55340 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0F8852772717B31900E55340 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0F88526C2717A62B00E55340 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F88526F2717A62B00E55340 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F8852712717A62B00E55340 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F8852772717B31900E55340 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = ../../../../../Downloads/alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0F88526C2717A62B00E55340 /* Assets.xcassets */,
 				0F88526E2717A62B00E55340 /* LaunchScreen.storyboard */,
 				0F8852712717A62B00E55340 /* Info.plist */,
+				0F8852772717B31900E55340 /* alarm_sound.mp3 */,
 			);
 			path = AutoLayoutApp;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				0F8852702717A62B00E55340 /* LaunchScreen.storyboard in Resources */,
 				0F88526D2717A62B00E55340 /* Assets.xcassets in Resources */,
+				0F8852782717B31900E55340 /* alarm_sound.mp3 in Resources */,
 				0F88526B2717A62700E55340 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
